@@ -1,0 +1,7 @@
+{
+  "name": "LeadGen_v1",
+  "description": "An enterprise-grade AI lead generator using Google Maps and Search to build lead lists, integrated with a powerful context-aware chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
